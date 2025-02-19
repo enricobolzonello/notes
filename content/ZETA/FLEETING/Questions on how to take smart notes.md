@@ -14,3 +14,4 @@ In the book it is said to write without an aim, but switching to this mental mod
 Also, it seems like in some way there is a pre-write purpose for permanent notes, but what if I dont have any? Reading just for personal improvement exists, or for personal interest, what do I do with it?
 
 Maybe I should do a manifesto on how to use this vault?
+test
