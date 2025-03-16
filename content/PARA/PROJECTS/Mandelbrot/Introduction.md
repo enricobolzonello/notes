@@ -10,7 +10,7 @@ type: project_note
 cssclasses:
   - hide-properties_editing
   - hide-properties_reading
-closed: 2025-01-07T10:27
+closed: 2025-02-22T15:33
 _previous_status: 1 To Do
 ---
 # Components
