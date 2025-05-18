@@ -1,18 +1,15 @@
 ---
-Priority_Level: 2 High
-Status: 4 Completed
+Priority_Level: 
+Status: 
 Date_Created: 
 Due_Date: 
-connections:
-  - "[[PARA/AREAS/CLANN/2. CLANN.md|2. CLANN]]"
+connections: 
 tags:
-  - "#project/clann_running_time"
-type: project_family
+  - "#project/lox_interpreter"
+type: project_note
 cssclasses:
   - hide-properties_editing
   - hide-properties_reading
-_previous_status: 2 In Progress
-closed: 2025-03-21T11:29
 ---
 # Components
 **Select Connection:** `INPUT[inlineListSuggester(optionQuery(#area)):connections]` 
@@ -21,12 +18,12 @@ closed: 2025-03-21T11:29
 **Priority Level:** `INPUT[inlineSelect(option(1 Critical), option(2 High), option(3 Medium), option(4 Low)):Priority_Level]`
 **Status:** `INPUT[inlineSelect(option(1 To Do), option(2 In Progress), option(3 Testing), option(4 Completed), option(5 Blocked)):Status]`
 # Description
-to complete the thesis I need to find the running time of the query algorithm, which depends on the number of clusters visited and the running time of PUFFINN. 
+-> takes in raw source code and outputs tokens
 
-# Notes
-- [[PARA/PROJECTS/CLANN running time/proposal|proposal]]
-- [[final]]
+## Reserved Words and Identifiers
+We need to be careful, for example say we want to match the identifier `or`. If we are not careful, the word `orchid` might get matched with the identifier or which is not right.
 
-# Definition of Done
+This example gets us to an important property which is [[Maximal Munch]]. Maximal munch means we can’t easily detect a reserved word until we’ve reached the end of what might instead be an identifier. 
+A reserved word is an identifier, but claimed by the language.
 
 
