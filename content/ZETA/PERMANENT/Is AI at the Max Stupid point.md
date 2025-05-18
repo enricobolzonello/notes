@@ -3,6 +3,7 @@ connections:
 tags:
   - permanent_note
   - theme/ai
+  - type/insight
 type: permanent_note
 created: 2025-02-02 11:59
 ---

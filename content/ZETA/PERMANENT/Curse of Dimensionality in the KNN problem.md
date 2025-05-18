@@ -2,6 +2,8 @@
 connections: 
 tags:
   - permanent_note
+  - theme/approximate-nearest-neighbor
+  - theme/engineering
 type: permanent_note
 created: 2025-02-13 18:09
 ---

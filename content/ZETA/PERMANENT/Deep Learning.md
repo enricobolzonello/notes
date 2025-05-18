@@ -4,6 +4,7 @@ tags:
   - permanent_note
   - theme/ai
   - theme/deep-learning
+  - type/index
 type: permanent_note
 created: 2025-02-19 11:50
 ---

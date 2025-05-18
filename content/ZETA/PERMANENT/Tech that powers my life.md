@@ -5,7 +5,7 @@ tags:
 type: permanent_note
 created: 2025-02-19 22:15
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
+ **Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
 
 In the last year my personal infrastructure has changed a lot from reading lots of books and blogs about individual's productive life. With this post I want to start a bi-annual series to track changes in how my approach to productivity, technology, and knowledge management is shifting, and what’s working (or not), inspired by [Elliot Clowes](http://elliotclowes.com/)'s [I'm Left Handed](https://imlefthanded.com/2025/the-tech-that-powers-my-life-2025-edition/). 
 
