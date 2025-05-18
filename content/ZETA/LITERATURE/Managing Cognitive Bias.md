@@ -1,5 +1,6 @@
 ---
-connections: 
+connections:
+  - "[[Kakorrhaphiophobia]]"
 reference: 
 tags:
   - type/quote

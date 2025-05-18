@@ -1,5 +1,6 @@
 ---
-connections: 
+connections:
+  - "[[Pensieri lenti e veloci - Daniel Kahneman]]"
 reference: 
 tags:
   - type/quote

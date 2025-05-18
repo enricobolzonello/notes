@@ -105,11 +105,46 @@ limited resources:
 5) **learn by reading** -> cramming (rereading multiple times) doesn't work for long term learning. The best method is *elaboration*, which is thinking about the meaning of what we read.
 
 ### 3) Take Smart Notes
+--> be careful of your mind, "it is a machine for jumping to conclusions"
+--> first question: why is it useful?
+
 Two problems with inexperienced readers:
 1) not reading with questions in mind and relating to other approaches
 2) de-contextualize information 
 Solution: 
 - write a brief summary on the main ideas of the text
 - do something with these ideas
-   
+
+#### writing for forgetting
+even though we forget information by offloading it into the slip-box, this act facilitates long term learning. 
+without forgetting, the important things gets lost under a pile of irrelevant details --> example of [[Solomon Shereshevsky]]
+
+[[active inhibition]]: mental barrier between the conscious mind and long term memory = forgetting.
+
+Remembering = mechanism to bring a memory back into our conscious mind. It cannot be consciously modified.
+
+From [[Bjork]], two different measures relate to memory:
+- **storage strength**, ability to store memories. Cannot be improved, it grows naturally over time. School focuses on this by "cramming" information (by repetition)
+- **retrieval strength**, can be learned through connecting information to as many meaningful contexts as possible. 
+--> focus on retrieval strength by *understanding*, which means elaborating which in turns means connecting to other information in a **meaningful way**. 
+
+#### Adding permanent notes
+1) add note to slip box
+2) add links to other notes
+3) add entry to the index
+4) build a latticework
+
+
+### 4) Develop Ideas
+--> index should not be complete, it is not an archive. For each index only one/two notes should be in it
+
+For keywords, don't be an archivist, be a writer.
+Archivist:
+> which keyword is the most fitting
+
+Writer:
+> in which circumstances will I want to stumble upon this note, even if I forget about it?
+
+
+
 
