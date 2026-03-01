@@ -1,6 +1,10 @@
 ---
-connections: [[Non sei Speciale]], [[Anchoring]], [[System One and Two]]
-reference: [[The Subtle Art of Not Giving a Fck]]
+connections:
+  - "[[Non sei Speciale]]"
+  - "[[Anchoring]]"
+  - "[[System One and Two]]"
+reference:
+  - "[[The Subtle Art of Not Giving a Fck - Mark Manson]]"
 tags:
   - theme/psychology
   - theme/growth
