@@ -16,4 +16,5 @@ In Rust instead a generic type parameter creates a **type class constraint**. `V
 With this you can add not only additional behavior to a particular member of a type class, but extra behavior as well.
 
 
+
 [^1]: This is the reason why Rust has compile time guarantees
