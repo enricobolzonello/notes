@@ -37,6 +37,13 @@ Data is at the center of many challenges in system design today. Difficult issue
 	- [[ZETA/LITERATURE/Scalability|Scalability]]
 	- [[Maintainability]]
 - Data Models and Query languages
+	- each layer hides the complexity of the layers below it by providing a clean data model
+	- [[Query Languages for Data]]
+- Storage and Retrieval
+	- there is a big difference between storage engines that are optimized for *transactional* workloads (OLTP) and those optimized for *analytics* (OLAP)
+	- index: speed up queries, but slows down writes
+		- [[SSTables]]
+		- [[LSM-Trees]]
 
 ## Notes
 - 
