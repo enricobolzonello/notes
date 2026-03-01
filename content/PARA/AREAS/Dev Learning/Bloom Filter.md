@@ -1,7 +1,8 @@
 ---
 area: Dev Learning
-tags: area/dev_learning/untitled
-type: area_note_sub
+tags:
+  - area/dev_learning/untitled
+type: area_note
 created: 2025-04-04 10:49
 ---
 # [[2. Dev Learning]] 
