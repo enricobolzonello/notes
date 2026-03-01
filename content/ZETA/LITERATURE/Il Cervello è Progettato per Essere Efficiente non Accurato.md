@@ -1,6 +1,10 @@
 ---
-connections: [[System One and Two]], [[Managing Cognitive Bias]], [[Human Tendency to Attribute Agency and Intentions]]
-reference: [[The Subtle Art of Not Giving a Fck]]
+connections:
+  - "[[System One and Two]]"
+  - "[[Managing Cognitive Bias]]"
+  - "[[Human Tendency to Attribute Agency and Intentions]]"
+reference:
+  - "[[The Subtle Art of Not Giving a Fck - Mark Manson]]"
 tags:
   - theme/psychology
   - theme/cognitive-bias
