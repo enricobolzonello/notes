@@ -7,8 +7,6 @@ tags:
 type: permanent_note
 created: 2025-12-03 23:12
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
-
 As per Graham,
 
 > Upon analysis' provides safety of principal and an adequate return

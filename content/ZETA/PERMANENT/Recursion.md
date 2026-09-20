@@ -1,11 +1,10 @@
 ---
-connections: 
+up:
+  - "[[ZETA/PERMANENT/Rust]]"
 tags:
   - permanent_note
-type: permanent_note
 created: 2025-01-31 11:31
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
 # Recursion
 Neither tail [[Linear Recursion is a chain of deferred operations|Linear Recursion is a chain of deferred operations]] nor [[Tail Call optimization replaces call with jmp|tail call optimization]] are guaranteed by Rust. Specifically, not by Rust directly, but the LLVM compiler, although there have been [progresses](https://reviews.llvm.org/D99517) in the guarantees
 

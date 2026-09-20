@@ -16,6 +16,7 @@ created: 2025-01-07 10:07
 - [2024 Work Trend Index Annual Report](https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part)
 - [AWESOME BOOKS](https://press.stripe.com/scaling-people)
 - [How to Build Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
+- https://nabeelqu.co/advice
 
 
 [How to Do Great Work](https://paulgraham.com/greatwork.html#f17n)

@@ -1,15 +1,10 @@
 ---
-connections:
+up:
   - "[[ZETA/PERMANENT/Rust.md|Rust]]"
 tags:
   - permanent_note
-  - theme/engineering
-  - theme/rust
-type: permanent_note
 created: 2025-03-11 10:12
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
-
 Lifetimes ensures that references are valid as long as we need them. 
 Most of the time they are implicit (remember the rules of out of scope), they must be annotated only when multiple types are possible. 
 

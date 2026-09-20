@@ -23,7 +23,7 @@ To start, do this exercise:
 
 But how do I collect material? The stack needs to be curated. My current flow does not involve scientific papers, it is mostly composed of RSS feeds and blog posts.
 
-![[knowledge_flow.png]]
+![[knowledge_flow.png|350]]
 My central place to collect bookmarks and materials to then process will be [Raindrop](https://raindrop.io/), since it is multi-platform and I can save both from websites and from the RSS reader.
 Speaking of RSS reader, I currently use [Reeder](https://reederapp.com/). Again, multi-platform, I can save directly to Raindrop without any context switching and I can have feeds from different sources such as Youtube. The main downside is that it has a 10 subscription limit, which is not great. 
 

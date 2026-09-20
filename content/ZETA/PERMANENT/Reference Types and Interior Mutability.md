@@ -1,15 +1,10 @@
 ---
-connections:
+up:
   - "[[ZETA/PERMANENT/Rust.md|Rust]]"
 tags:
   - permanent_note
-  - theme/engineering
-  - theme/rust
-type: permanent_note
 created: 2025-01-31 11:30
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
-
 # Reference Types
 "immutable" means "non-exclusive". Actually non-mutable references can mutate with a process called "interior mutability", which happens when working with threads. 
 
@@ -42,7 +37,7 @@ fn embiggen_x(pt: &Point) {
 
 **Shared reference**: other references to the same value might exist, on other threads or the caller's stack frame on the current thread.
 
-In some cases, like [[Rust#Interior mutability]], shared references (`&T`) may mutate.
+In some cases, like [[ZETA/PERMANENT/Rust#Interior mutability]], shared references (`&T`) may mutate.
 
 ## Interior mutability
 Interior mutability is the mutation through a shared reference. 
