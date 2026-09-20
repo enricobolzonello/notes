@@ -11,10 +11,9 @@ permissions:
   deployments: write
 
 jobs:
-  deploy-v5:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+  build:
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Deploy to Github pages
     steps:
       - uses: actions/checkout@v6
         with:
@@ -52,13 +51,13 @@ jobs:
       - name: Build Quartz
         run: npx quartz build -d docs -v
 
-      - name: Deploy to Cloudflare Pages
-        uses: AdrianGonz97/refined-cf-pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: quartz
-          deploymentName: v5 Branch Preview
-          branch: v5
-          directory: public
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
