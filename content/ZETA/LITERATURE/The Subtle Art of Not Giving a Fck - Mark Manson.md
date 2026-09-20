@@ -29,13 +29,13 @@ by [[Mark Manson]]
 ## Table of Contents
 <!--Link to table of contents (TOC) -->
 - [[Ti Sbagli su Tutto (Ma Anche Io)]]
-- [[Stai sempre scegliendo]]
-- [[Non sei Speciale]]
-- [[ZETA/LITERATURE/Non Provarci|Non Provarci]]
+- [[Scegliere i propri problemi dà potere, sentirli imposti rende vittime]]
+- [[La vera autostima si misura da come guardi le tue parti negative]]
+- [[Il desiderio di più esperienze positive è in sé un'esperienza negativa|Il desiderio di più esperienze positive è in sé un'esperienza negativa]]
 - [[La Felicità è un Problema]]
-- [[L'Importanza di Dire No]]
+- [[La libertà da sola è vuota, il significato nasce dal restringere e scegliere]]
 - [[Il Valore della Sofferenza]]
-- [[il Fallimento è la Via da Seguire]]
+- [[L'Azione non è Solo l'Effetto della Motivazione — È Anche la Sua Causa]]
 
 ## Notes
 <!-- The main content of my thoughts really -->

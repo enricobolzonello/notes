@@ -1,15 +1,11 @@
 ---
-connections:
-  - "[[What’s Really Going On in Machine Learning Some Minimal Models|What’s Really Going On in Machine Learning Some Minimal Models]]"
-reference: https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/
+up:
+  - "[[ZETA/LITERATURE/Transformer|Transformer]]"
 tags:
-  - theme/deep-learning
-  - theme/ai
-type: literature_note
+  - atomic
 created: 2025-02-23 11:19
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
---> it seems like ML is just sampling from the complexity of the computational universe, and picking out behaviour that happen to overlap to what's needed.
+ --> it seems like ML is just sampling from the complexity of the computational universe, and picking out behaviour that happen to overlap to what's needed.
 
 In the [[What’s Really Going On in Machine Learning Some Minimal Models#Machine Learning in Discrete Rule Arrays|discrete example]] a simplification of the ml (and biological) evolution can be seen. The system doesn't find the simplest solution, actually it seems they just "happen to work".    
 
@@ -29,3 +25,8 @@ Observation: ML can find solutions, but not structured. They are solutions that 
 --> computational irreducibility lets simple processes be successful (Principle of Computational Equivalence)
 --> only if the system is computationally reducible, we will be able to know in advance what a system is able to do. But if it is, then it won't achieve magic as we see
 --> but within any computationally irreducible system, there are pockets of computational reducibility. That pockets allow us to identify things like "laws of nature" from which we can build "human-level narratives"
+
+
+# References
+- https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/
+- [[What’s Really Going On in Machine Learning Some Minimal Models]]

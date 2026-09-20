@@ -32,7 +32,7 @@ Structure and Interpretation of Computer Programs by Harold Abelson and Gerald J
 
 ## Notes
 <!-- The main content of my thoughts really -->
-- [[ZETA/LITERATURE/Recursion|Recursion]]
+- [[Linear Recursion is a chain of deferred operations|Linear Recursion is a chain of deferred operations]]
 
 
 ## Quotes

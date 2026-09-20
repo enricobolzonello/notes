@@ -1,14 +1,10 @@
 ---
-connections: 
-reference: 
+up:
 tags:
-  - theme/deep-learning
-  - theme/ai
-type: literature_note
+  - atomic
+  - todo
 created: 2025-02-19 11:51
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
-
 >[!SUMMARY] Table of Contents
 >- [[Transformer#Transformer|Transformer]]
 >	- [[Transformer#Self-Attention|Self-Attention]]

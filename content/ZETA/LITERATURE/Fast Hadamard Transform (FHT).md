@@ -1,13 +1,10 @@
 ---
-connections:
-  - "[[Cross Polytope LSH]]"
-  - "[[Hadamard Transform]]"
-reference: 
+up:
+  - "[[The Hadamard Transform y = Hₘx Transforms 2ᵐ Numbers Using Only Additions and Subtractions]]"
 tags:
-  - type/note
-  - theme/mathematics
-type: literature_note
+  - atomic
+  - todo
 created: 2025-01-03 11:56
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
+
 

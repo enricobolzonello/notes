@@ -1,8 +1,8 @@
 ---
 connections:
-  - "[[Non sei Speciale]]"
+  - "[[La vera autostima si misura da come guardi le tue parti negative]]"
   - "[[Anchoring]]"
-  - "[[System One and Two]]"
+  - "[[Sistema 1 è automatico e veloce, sistema 2 è lento, deliberato e richiede attenzione]]"
 reference:
   - "[[The Subtle Art of Not Giving a Fck - Mark Manson]]"
 tags:

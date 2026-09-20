@@ -34,14 +34,16 @@ Kahneman ci guida in un'affascinante esplorazione della mente umana e ci spiega 
 - 
 
 ## Notes
-- [[System One and Two]]
+- [[Sistema 1 è automatico e veloce, sistema 2 è lento, deliberato e richiede attenzione]]
 - [[2. Mental Models|Mental Models]]
 
 ## Quotes
-- [[Managing Cognitive Bias]]
+- [[Non possiamo eliminare i bias, possiamo solo riconoscere le situazioni a rischio]]
 - [[Human Tendency to Attribute Agency and Intentions]]
 - [[Misjudging Reliability and Causality]]
-- [[Politics Role]]
+
+- ## La politica in definitiva riguarda la gente, quello che la gente vuole e quello che è meglio per lei. Ogni questione politica comporta assunti sulla natura umana, in particolare sulle scelte che si possono fare e sulle loro conseguenze per se stessi e per la società
+	- [ ] La politica in definitiva riguarda la gente, quello che la gente vuole e quello che è meglio per lei. Ogni questione politica comporta assunti sulla natura umana, in particolare sulle scelte che si possono fare e sulle loro conseguenze per se stessi e per la società
 
 ---
 

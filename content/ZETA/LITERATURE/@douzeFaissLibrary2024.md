@@ -120,7 +120,7 @@ different approaches:
     
     - if it is based on KD-tree, the rule is the position with respect to the hyperplane
     - if it is based on hierarchical k-means, it is the proximity to a centroid
-- Inverted files (IVF) -> clusters the database at indexing time. [[Clustering]] uses a vector quantizer that outputs $K_{IVF}$ distinct indices.  
+- Inverted files (IVF) -> clusters the database at indexing time. [[Clustering is the task of grouping a set of objects]] uses a vector quantizer that outputs $K_{IVF}$ distinct indices.  
     The vectors of each cluster are stored contiguously into inverted lists.
 - Graph based -> building a directed graph whose nodes are the vectors. The search is done by following the edges towards the nodes that are closest to the query vector. FAISS implements HNSW and NSG.
 
