@@ -8,7 +8,7 @@ created: 2025-01-07 10:11
 # [[2. CLANN]] 
 # Overview
 
-On [[@ceccarelloSolving$k$centerClustering2021]] a technique to bound the size of the clusters using the [[Doubling Space|doubling dimension property]] is used. This is a rewrite and extension of the proof presented in the paper.
+On [[@ceccarelloSolving$k$centerClustering2021]] a technique to bound the size of the clusters using the [[Doubling Dimension D - a ball or radius r can be covered by smaller balls|doubling dimension property]] is used. This is a rewrite and extension of the proof presented in the paper.
 
 > [!THEOREM]
 > If $S$ belongs to a metric space of doubling dimension $D$, then: 
@@ -23,9 +23,9 @@ Formally, we have to find an upper bound on the number $\tau_i$ of iterations of
 
 ## Proof
 For each subset $S_i$,the k-centers $T_k^i$ produce a clustering with radius $r_{T_i^k}(S_i)$. 
-Using the [[Doubling Space#Iteratively Covering Smaller Balls|doubling dimension property]] , we have that each of the k clusters in $S_i$ can be covered with at most $(4/\epsilon)^D$ balls of radius $\le \epsilon/4 \cdot r_{T_k}^i(S_i)$. 
+Using the [[Doubling Dimension D - a ball or radius r can be covered by smaller balls#Iteratively Covering Smaller Balls|doubling dimension property]] , we have that each of the k clusters in $S_i$ can be covered with at most $(4/\epsilon)^D$ balls of radius $\le \epsilon/4 \cdot r_{T_k}^i(S_i)$. 
 After running $h$ iterations of gmm, the algorithm guarantees that any two points in the set $T_i^h\cup \{x\}$ [^1] are at least $r_{T_i^h}(S_i)$ apart. This is because the greedy algorithm selects the farthest points each time.
-Given there are only $h$ balls covering $S$, by the [[Pigeonhole Principle]] at least two points from $T_i^h\cup \{x\}$ must fall into the same ball.
+Given there are only $h$ balls covering $S$, by the [[Pigeonhole Principle - if n items fill m containers and n>m, some container has more than one]] at least two points from $T_i^h\cup \{x\}$ must fall into the same ball.
 
 The triangle inequality tells us that if two points are within the same ball, the distance between them is at most twice the radius of that ball. Since each ball has radius $\epsilon/4 \cdot r_{T_k^i}(S_i)$, the maximum distance between any two points within the same ball is:
 $$

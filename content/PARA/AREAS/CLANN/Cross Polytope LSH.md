@@ -7,7 +7,7 @@ created: 2025-01-03 10:58
 ---
 # [[2. CLANN]] 
 # Overview
-Efficient and practical [[LSH Family]] for the [[Angular Distance]].
+Efficient and practical [[LSH Family]] for the [[Angular Distance is the true metric version of cosine distance]].
 
 > [!DEFINITION]
 > Consider the following hash family $\mathcal{H}$ for points on a unit sphere $S^{d-1} \subset \mathbb{R}^d$. Let $A\in \mathbb{R}^{d\times d}$ be a random matrix with i.i.d. Gaussian entries. To hash a point $x\in S^{d-1}$, we compute $y=\frac{Ax}{||Ax||}\in S^{d-1}$ and then find the point closest to $y$ from $\{\pm e_i\}_{1\le i\le d}$, where $e_i$ is the i-th standard basis vector of $R^d$
