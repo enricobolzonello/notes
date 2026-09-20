@@ -9,7 +9,6 @@ tags:
 type: permanent_note
 created: 2026-02-25 11:13
 ---
-**Select Connection:** `INPUT[inlineListSuggester(optionQuery(#permanent_note), optionQuery(#literature_note), optionQuery(#fleeting_note)):connections]` 
 
 The main idea of [[Zettelkasten]] is to not just read content, but make it stick. This avoids also another problem: the Collector's Fallacy, the tendency to hoard content to get the feeling of being on the cutting edge.
 

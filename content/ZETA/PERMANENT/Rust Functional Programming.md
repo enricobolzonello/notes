@@ -1,6 +1,6 @@
 ---
 connections:
-  - "[[ZETA/LITERATURE/Functional Programming|Functional Programming]]"
+  - "[[Functional Programming programs are trees of expressions, not sequences of steps|Functional Programming programs are trees of expressions, not sequences of steps]]"
 tags:
   - permanent_note
 type: permanent_note
@@ -15,6 +15,11 @@ In Rust instead a generic type parameter creates a **type class constraint**. `V
 
 With this you can add not only additional behavior to a particular member of a type class, but extra behavior as well.
 
+## map
+
+> takes a [[Closures|closure]] and creates an iterator which calls that closure
+
+Conceptually similar to a for loop, but lazy.
 
 
 [^1]: This is the reason why Rust has compile time guarantees

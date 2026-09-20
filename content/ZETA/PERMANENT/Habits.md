@@ -20,8 +20,8 @@ created: 2026-02-25 15:55
 	- EOD: 1 hour reading and taking notes
 - Track calories
 	- every morning two breakfasts:
-		- eggs, avocado, cottage cheese before leaving home
-		- overnight oats at work
+		- banana and 2/3 majood dates before workout
+		- overnight oats at work [[Banoffee Pie Overnight Oats]]
 - Deep work #todo 
 - 30 minute session about Rust features
 	- https://dtolnay.github.io/rust-quiz

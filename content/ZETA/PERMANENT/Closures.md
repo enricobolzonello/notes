@@ -39,25 +39,25 @@ The way a closure captures and handles values from the environment affects which
 #flashcards/rust
 
 What is a closure in Rust?::An anonymous function that can be saved in a variable or passed as an argument to other functions, and can capture values from its surrounding scope.
-<!--SR:!2026-03-01,3,250-->
+<!--SR:!2026-04-19,12,230-->
 
 What are the 3 ways a closure can capture values from the environment?::Borrow immutably, borrow mutably, or take ownership (with the `move` keyword).
-<!--SR:!2026-02-27,1,230-->
+<!--SR:!2026-04-10,3,210-->
 
 What determines how a closure captures values from the environment?::What the closure's body does with those values.
-<!--SR:!2026-03-01,3,250-->
+<!--SR:!2026-04-17,10,230-->
 
 What does `FnOnce` mean for a closure?::The closure can only be called once, because it moves captured values out of its body.
-<!--SR:!2026-02-27,1,230-->
+<!--SR:!2026-04-08,1,150-->
 
 What does `FnMut` mean for a closure?::The closure can be called more than once and may mutate captured values, but doesn't move them out.
-<!--SR:!2026-03-01,3,250-->
+<!--SR:!2026-04-08,1,190-->
 
 What does `Fn` mean for a closure?::The closure can be called more than once without moving or mutating captured values (or it captures nothing).
-<!--SR:!2026-02-27,1,230-->
+<!--SR:!2026-04-11,4,210-->
 
 What does the `move` keyword do in a closure?::Forces the closure to take ownership of captured values instead of borrowing them.
-<!--SR:!2026-02-27,1,230-->
+<!--SR:!2026-04-11,4,210-->
 
 Are `move` and `Fn`/`FnMut`/`FnOnce` orthogonal?::Yes. `move` determines whether the compiled struct holds owned values or references; `Fn`/`FnMut`/`FnOnce` determines whether the call method takes `&self`, `&mut self`, or `self`.
-<!--SR:!2026-02-27,1,230-->
+<!--SR:!2026-04-08,1,170-->
