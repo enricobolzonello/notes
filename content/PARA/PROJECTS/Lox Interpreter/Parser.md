@@ -20,7 +20,7 @@ cssclasses:
 **Status:** `INPUT[inlineSelect(option(1 To Do), option(2 In Progress), option(3 Testing), option(4 Completed), option(5 Blocked)):Status]`
 # Description
 
-With the [[Scanner|scanner]] we transformed raw source code into a sequence of tokens, on the [[Chomsky hierarchy]] we were at the first level. 
+With the [[Scanner|scanner]] we transformed raw source code into a sequence of tokens, on the [[Chomsky hierarchy - Regular < Context-Free < Context-Sensitive < Recursively Enumerable]] we were at the first level. 
 Now we go up one level, to the [[Context-Free Grammars and Languages|context-free grammar]] (CFG). The parser role is to derive a syntactic structure of the program, fitting the words into a grammatical model of the source programming language.
 We need CFGs mainly to express precedence, but also to see valid operations. Regular expressions are not capable of that, as for example $a + ( b × c$ is a valid expression for a regex. 
 
@@ -30,7 +30,7 @@ Remember the [[Context-Free Grammars and Languages#Context-Free Grammars|definit
 2) variables --> used as abstract versions of decisions that will be made later
 3) productions --> these describe how a variable can be converted into different sets of variables or terminal
 
-We will use a variation of the [[Backus–Naur form]], modified like this:
+We will use a variation of the [[Backus–Naur form is the traditional notation for representing context-free grammars]], modified like this:
 > Each rule is a name, followed by an arrow (`→`), followed by a sequence of symbols, and finally ending with a semicolon (`;`). Terminals are quoted strings, and nonterminals are lowercase words.
 
 As in the example grammar, for generating a breakfast:
