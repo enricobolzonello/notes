@@ -1,4 +1,4 @@
-name: Deploy v5 Preview
+name: Deploy Quartz site to GitHub Pages
 
 on:
   push:
@@ -8,9 +8,12 @@ on:
 
 permissions:
   contents: read
-  deployments: write
-  id-token: write
   pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
