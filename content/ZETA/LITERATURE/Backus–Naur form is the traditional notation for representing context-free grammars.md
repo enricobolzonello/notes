@@ -2,7 +2,7 @@
 tags:
   - atomic
 up:
-  - "[[Scanner]]"
+  - "[[Lox Scanner]]"
   - "[[Context-Free Grammars and Languages]]"
 created: 2025-04-22 16:36
 ---

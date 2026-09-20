@@ -1,13 +1,13 @@
 ---
 connections:
-  - "[[PARA/AREAS/CLANN/2. CLANN.md|2. CLANN]]"
-reference: 
+  - "[[CLANN|2]]"
+reference:
 tags:
   - type/paper
   - theme/lsh
 type: literature_note
 created: 2024-12-20 19:07
-modified: 
+modified:
 citekey: aumullerSolvingKClosestPairs2023
 status: read
 dateread: 2024-10-07

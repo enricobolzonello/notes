@@ -8,7 +8,7 @@ created: 2024-12-20 21:34
 
 > An IP address identifies a location of a resource within a network
 
-It operates at Layer 3 (Network) of the [[OSI Model describes network communication in 7 layers from physical bits to application data]], enabling routing and traffic control across multi-node networks.
+It operates at Layer 3 (Network) of the [[OSI Model describes network communication in 7 layers from physical bits to application data|OSI model]], enabling routing and traffic control across multi-node networks.
 
 ## IPv4
 - uses 32-bit addresses

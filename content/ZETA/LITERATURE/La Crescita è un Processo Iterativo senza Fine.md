@@ -1,7 +1,7 @@
 ---
 connections:
   - "[[La vera autostima si misura da come guardi le tue parti negative]]"
-  - "[[Anchoring]]"
+  - "[[Anchoring è il processo di assegnazione di un valore ad una quantità ignota]]"
   - "[[Sistema 1 è automatico e veloce, sistema 2 è lento, deliberato e richiede attenzione]]"
 reference:
   - "[[The Subtle Art of Not Giving a Fck - Mark Manson]]"
@@ -19,7 +19,7 @@ created: 2024-12-28 15:30
 
 Molte persone diventano così ossessionate dall'essere giusti sulla propria vita che finiscono per non viverla mai. Ci sono delle certezze che non lasciamo per paura, perché ci hanno definito la vita fino a quel momento.
 
-L'ossessione per la certezza ci impedisce di crescere perché la crescita richiede di ammettere che siamo in errore su qualcosa. Questo si collega al concetto di [[Anchoring]] - tendiamo a rimanere ancorati alle nostre prime impressioni e credenze.
+L'ossessione per la certezza ci impedisce di crescere perché la crescita richiede di ammettere che siamo in errore su qualcosa. Questo si collega al concetto di [[Anchoring è il processo di assegnazione di un valore ad una quantità ignota]] - tendiamo a rimanere ancorati alle nostre prime impressioni e credenze.
 
 È più facile restare in una certezza dolorosa piuttosto che mettere alla prova quelle credenze e scoprire cosa succede davvero. Assumiamo di essere giusti perché sappiamo già cosa succederà.
 

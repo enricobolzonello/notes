@@ -1,14 +1,14 @@
 ---
 connections:
-  - "[[PARA/AREAS/CLANN/2. CLANN.md|2. CLANN]]"
-reference: 
+  - "[[CLANN|2]]"
+reference:
 tags:
   - type/paper
   - theme/approximate-nearest-neighbor
 type:
   - literature_note
 created: 2024-12-18 10:14
-modified: 
+modified:
 citekey: aumullerPUFFINNParameterlessUniversally2019
 status: read
 dateread: 2024-10-03

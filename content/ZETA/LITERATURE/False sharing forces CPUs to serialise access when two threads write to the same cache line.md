@@ -15,5 +15,6 @@ To prevent it, pad cache lines with empty data to ensure each independently-writ
 # See also 
 - [[Prefer sequential memory access, CPUs predict and prefetch based on locality]] — false sharing is the dark side of spatial locality: proximity that helps reads hurts concurrent writes - [[The Actor Model Isolates State Behind Message Passing, No Shared Memory]] — the actor model eliminates false sharing structurally: no shared memory means no shared cache lines 
 - [[System Programming - Compile utilities]] — ThreadSanitizer detects race conditions on shared data; false sharing is a performance pathology of the same category 
+- [[The store-buffer litmus test proves mutual exclusion is not enough]] — false sharing lives at the same hardware layer (per-core caches, cache lines, store buffers) that makes that test's surprising outcome possible; it is the performance face of the machinery the memory model reasons about
 # References 
 - https://martinfowler.com/articles/mechanical-sympathy-principles.html

@@ -10,7 +10,7 @@ For example, if we have a word `orchid` which can be mapped as an identifier or 
 
 # References
 - https://craftinginterpreters.com/scanning.html
-- [[Scanner]]
+- [[Lox Scanner]]
 # See also
 - [[Backus–Naur form is the traditional notation for representing context-free grammars]] — the formal grammar notation that defines the rules Maximal Munch arbitrates between 
 - [[Chomsky hierarchy - Regular < Context-Free < Context-Sensitive < Recursively Enumerable]] — lexical scanning operates at the Regular language level of the hierarchy; Maximal Munch is a disambiguation rule at that level

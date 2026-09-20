@@ -15,7 +15,7 @@ When reading news or facts we often hear lots of numbers and values. Instead of 
 
 # See also
 - [[Reality has a surprising amount of detail]] - interesting read about how difficult is reality
-- [[Correcting Intuitive Predictions]] - making your estimations regress towards the mean
-- [[Hindsight Bias]] - updating your intuitive view of the world makes you forget that the original
+- [[Correcting Intuitive Predictions means regressing toward the mean proportionally to the evidence correlation]] - making your estimations regress towards the mean
+- [[Hindsight Bias, after the outcome we believe we knew it all along and cannot recall our prior belifs]] - updating your intuitive view of the world makes you forget that the original
 # References
 - https://brilliant.org/wiki/fermi-estimate/

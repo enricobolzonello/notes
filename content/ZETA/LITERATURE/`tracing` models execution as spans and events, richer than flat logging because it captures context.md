@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Rust]]"
+  - "[[ZETA/PERMANENT/Rust]]"
 tags:
   - atomic
 created: 2026-05-05 15:00

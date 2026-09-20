@@ -1,6 +1,5 @@
 ---
 up:
-  - "[[An IP Address Identifies the Location of a Resource Within a Network]]"
 tags:
   - atomic
 created: 2025-12-21 16:07

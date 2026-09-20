@@ -1,10 +1,12 @@
 ---
 up:
-  - "[[Rust]]"
+  - "[[ZETA/PERMANENT/Rust]]"
 tags:
   - atomic
 created: 2026-04-30 17:11
 ---
+
+> The *why* behind both crates is [[Coherence guarantees one impl per (trait, type) pair, enforced by the orphan rule and no-overlap]].
 
 - use `thiserror` when you want a structured representation for your errors
 - use `anyhow` when this representation is not needed

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Clustering is the task of grouping a set of objects]]"
+  - "[[An LSH Family maps closer points to the same bucket with higher probability]]"
 tags:
   - atomic
 created: 2024-12-20 19:26
